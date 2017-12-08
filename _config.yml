@@ -1,18 +1,18 @@
 # Site settings
-title: Another Blog
-url: "http://laobubu.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
-baseurl: "/jekyll-theme-EasyBook" # the prefix of your site uri, eg. `/jekyll-theme-EasyBook` or just one slash `/`
+title: Madeyedexter's Blog
+url: "https://madeyedexter.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
+baseurl: "/" # the prefix of your site uri, eg. `/jekyll-theme-EasyBook` or just one slash `/`
 #timezone: Asia/Chongqing
 description: >
-  One or more sentences introducing this blog.
+  This is personal portfolio site of Danish Kamal.
 
 # Your information
-email: your_email@example.com
-author: your_name
-avatar: "//www.gravatar.com/avatar/your_email_md5?d=mm&s=135"
-profile: One sentence introducing yourself.
+email: madeyedexter92@gmail.com
+author: Madeyedexter
+avatar: "//www.gravatar.com/avatar/46f0507196b8e70f55b0c57e570c3408?d=mm&s=135"
+profile: Hello! I am just passing by.
 #twitter_username: twitter_username
-#github_username:  github_username
+github_username:  Madeyedexter
 
 # Comment Service (Disqus or 多说)
 #  choose one and un-comment the line to active it
